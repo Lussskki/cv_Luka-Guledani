@@ -57,3 +57,13 @@ Full-Stack Project
 - In the back, used Express, ES6 JavaScript and write methods for fetching info to PostgreSQL.
 - Skills: PostgreSQL, Node.js, Express.js, REST APIs.
 - [Project Repository](https://github.com/Lussskki/BITCAMP-FULLWEBSITE-PROJECT)
+
+### FreeCodeCamp.org (2021)
+Self-learning HTML/CSS/Js
+- Studied Responsive Web Design course on FreeCodeCamp.org and completed the curriculum and obtained a certificate.
+- [Certificate](https://www.freecodecamp.org/certification/Lussskki/responsive-web-design)
+
+### CodeHS.com (2020)
+Self-learning Javascript
+- Studied Javascript basic structure nd writing code, after the curriculum obtained a badges.
+- [CodeHs]()
