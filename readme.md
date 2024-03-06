@@ -4,8 +4,9 @@ Junior Full-stack Engineer | Georgia, Tbilisi
 📧 lukaguledani123@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/luka-guledani-0a0524227/) | 📞 +995 557 463 444 | 🐱 [GitHub](https://github.com/Lussskki/)
 
 ## ABOUT ME
-Self-taught and passionate about programming since 2020. I enjoy exploring languages like Python and JavaScript independently, alongside proficiency in HTML/CSS/JS. My curiosity drives me to excel in both frontend and backend development. Age: 23
+Self-taught and passionate about programming since 2020. I enjoy exploring languages like Python and JavaScript independently, alongside proficiency in HTML/CSS/JS. My curiosity drives me to excel in both frontend and backend development. 
 
+**Age:** 23
 **Languages:** Georgian, English, German  
 **Tech Stack:** JavaScript, Node.js, Python, FastAPI, HTML/CSS, Linux
 
