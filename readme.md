@@ -6,9 +6,9 @@ Junior Full-stack Engineer | Georgia, Tbilisi
 ## ABOUT ME
 Self-taught and passionate about programming since 2020. I enjoy exploring languages like Python and JavaScript independently, alongside proficiency in HTML/CSS/JS. My curiosity drives me to excel in both frontend and backend development. 
 
-**Age:** 23
-**Languages:** Georgian, English, German  
-**Tech Stack:** JavaScript, Node.js, Python, FastAPI, HTML/CSS, Linux
+**Languages:** Georgian, English, German.  
+**Tech Stack:** JavaScript, Node.js, Python, FastAPI, HTML/CSS, Linux.  
+**Age:** 23.
 
 ## EXPERIENCE
 ### Startup - Fundhance (2024)
